@@ -3,4 +3,8 @@
     "express": "^4.21.1",
     "mysql2": "^3.11.4"
   }
+
+  "scripts":{
+    "start": "cd client && npm start",
+    "build": "cd client && npm run build"
 }
